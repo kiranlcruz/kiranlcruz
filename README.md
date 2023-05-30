@@ -1,5 +1,12 @@
 ## Olá, eu sou Gabriel Cruz, futuro desenvolvedor full-stack!
 
+💼 - Atualmente estagiando na manuentação e parametrização com software lowcode de governança Archer.  
+👨‍🎓 - Cursando Engenharia de Software no IESB e fazendo cursos de PHP/Laravel na ALURA.
+🤓 - Buscando oportunidade na área de programação.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranlcruz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
