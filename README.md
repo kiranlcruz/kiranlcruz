@@ -1,7 +1,7 @@
 ## Olá, eu sou Gabriel Cruz, futuro desenvolvedor full-stack!
 
-💼 - Atualmente estagiando na manuentação e parametrização com software lowcode de governança Archer.  
-👨‍🎓 - Cursando Engenharia de Software no IESB e fazendo cursos de PHP/Laravel na ALURA.
+💼 - Atualmente estagiando na manuentação e parametrização com software lowcode de governança Archer.   
+👨‍🎓 - Cursando Engenharia de Software no IESB e fazendo cursos de PHP/Laravel na ALURA.   
 🤓 - Buscando oportunidade na área de programação
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiranlcruz)](https://github.com/anuraghazra/github-readme-stats)
