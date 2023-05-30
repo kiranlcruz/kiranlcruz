@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriel Cruz, futuro desenvolvedor full-stack!
+## Olá, eu sou Gabriel Cruz, desenvolvedor júnior full-stack!
 
 💼 - Atualmente estagiando na manutenção e parametrização com software lowcode de governança Archer.   
 👨‍🎓 - Cursando Engenharia de Software no IESB e fazendo cursos de PHP/Laravel na ALURA.   
